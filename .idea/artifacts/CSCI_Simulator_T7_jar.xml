@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSCI-Simulator-T7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSCI_Simulator_T7_jar</output-path>
+    <root id="archive" name="CSCI-Simulator-T7.jar">
+      <element id="module-output" name="CSCI-Simulator-T7" />
+    </root>
+  </artifact>
+</component>
